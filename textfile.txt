@@ -1,3 +1,6 @@
 Hi this is my first git program 
 this is my program
 somethink is changed
+Hi this is my first git program 
+this is my program
+somethink is changed
